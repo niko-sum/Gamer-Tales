@@ -13,3 +13,6 @@ npm run dev
 npm start
 
 ```
+
+## Credit
+Created and modified from Traversy Media's "Node.js App from Scratch" tutorial
